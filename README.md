@@ -1,7 +1,6 @@
 # Desafio Bootcamp New Talent Java:
-Este desafio consiste em demonstrar na prática conceitos e comandos básicos (git clone, git add ., git status, git commit -m “Descrição da atualização.”, git push, etc.) para criar um repositório com projeto no meu perfil no Git Hub com o uso do Git Bash.
-
-E com base nisto como projeto estão adicionados os seguintes Apps:
+Este desafio consiste em demonstrar na prática conceitos e comandos básicos (git clone, git add ., git status, git commit -m “Descrição da atualização.”, git push, etc.) para criar um repositório com projeto no meu perfil no Git Hub com o uso do Git Bash.<br>
+Adicionados os seguintes Apps neste projeto:
 ## AppAulaEstoque:
 Este App serve para mostrar nome, quantidade e preço de produto em estoque, fazendo também a soma do valor total em Reais (R$) das quantidades deste produto.
 ## AppFuncionarios:
@@ -10,8 +9,7 @@ Idade igual ou menor que 55 anos, o imposto será de 11% sobre o salário;<br>
 Idade maior que 55 anos, o imposto será de 9% sobre o salário;<br>
 Também deve informar o número de faltas, se houver para calcular o salário líquido do funcionário. 
 ## AppMedia:
-Para melhorar meu desenvolvimento em programação na linguagem Java resolvi desenvolver um App para fazer o cálculo da média final referente as provas e atividades de acordo com as regras da faculdade na qual sou formado.
-
+Para melhorar meu desenvolvimento em programação na linguagem Java resolvi desenvolver um App para fazer o cálculo da média final referente as provas e atividades de acordo com as regras da faculdade na qual sou formado.<br>
 Este App possui uma Classe para cadastro simples (nome, ra, curso e matéria) de aluno, uma Classe para o cálculo das notas em provas e/ou atividades, deste aluno podendo este curso ser do tipo:<br>
 a. Presencial;<br>
 b. Semipresencial;<br> 
