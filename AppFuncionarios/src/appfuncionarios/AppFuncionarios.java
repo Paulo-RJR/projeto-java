@@ -15,7 +15,7 @@ public class AppFuncionarios {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Aula de Construtor, sobrecarga e Encapsulamento
+        // Aula sobre Método Construtor, Sobrecarga de Método e Encapsulamento.
         Scanner entr = new Scanner(System.in);        
         System.out.println("Desenvolva um programa em Java que cadastre um \n"
             + "funcionário por meio dos atributos: nome, idade, função, \n"
