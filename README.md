@@ -18,11 +18,9 @@ b. Semipresencial;<br>
 <b>Obs.:</b> Os Apps acima foram escolhidos para este projeto pois mostram o meu nível atual de conhecimento e uso de comandos na linguagem de programação Java, aplicando dentre outros conceitos a Programação Orientada a Objetos através de IDE Netbeans.
 
 <hr>
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Paulo-Netbeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
   <img align="center" alt="Paulo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
   <img align="center" alt="Paulo-Devicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
 </div>
-
