@@ -39,7 +39,7 @@ public class AppFuncionarios {
             double salario = entr.nextDouble();
         Funcionarios funcionarios = new Funcionarios(nome, idade, funcao, falta,  
             salario);
-        System.out.printf("O seu salário líquido é: R$ %.2f\n", 
+        System.out.printf("O salário líquido é: R$ %.2f\n", 
                 funcionarios.descontar()); 
         entr.close();
     }    

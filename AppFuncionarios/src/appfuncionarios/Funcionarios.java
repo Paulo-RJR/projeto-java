@@ -36,17 +36,23 @@ public class Funcionarios {
     dia) * número de faltas)*/
     //Método público com retorno para calcuar os descontos no salário.
     public double descontar(){
-        if(this.idade >= 55 && this.falta == 0){
-            this.salario = this.salario - (this.salario * 0.09);
+        if(this.idade >= 55 && this.falta == 0){            
+            this.salario = this.salario - (this.salario * 0.09);  
+            System.out.println("\nImposto de 9%.");
         }
-        if(this.idade >= 55 && this.falta > 0){
+        
+        if(this.idade >= 55 && this.falta > 0){            
             this.salario = (this.salario - (this.salario * 0.09)) - 
-                    (((this.salario / 240) * 9) * this.falta);
-        }else if(this.idade < 55 && this.falta > 0){
+            (((this.salario / 240) * 9) * this.falta);
+            System.out.println("\nImposto de 9%.");
+            
+        }else if(this.idade < 55 && this.falta > 0){            
             this.salario = (this.salario - (this.salario * 0.11)) - 
-                    (((this.salario / 240) * 9) * this.falta);
-        }else{
-             this.salario = (this.salario - (this.salario * 0.11));
+            (((this.salario / 240) * 9) * this.falta);
+            System.out.println("\nImposto de 11%.");
+        }else if (this.idade < 55 && this.falta == 0){            
+            this.salario = (this.salario - (this.salario * 0.11));
+            System.out.println("\nImposto de 11%.");
         }
         /*if(idade >= 55){
             salario = salario - (salario * 0.09);
