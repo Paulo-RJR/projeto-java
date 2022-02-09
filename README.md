@@ -1,5 +1,5 @@
-# Desafio Bootcamp New Talent Java:
-Este desafio consiste em demonstrar na prática conceitos e comandos básicos (git clone, git add ., git status, git commit -m “Descrição da atualização.”, git push, etc.) para criar um repositório com projeto no meu perfil no Git Hub com o uso do Git Bash.<br>
+# Primeiro Repositório no GitHub:
+Este primeiro repositório consiste em demonstrar na prática conceitos e comandos básicos (git clone, git add ., git status, git commit -m “Descrição da atualização.”, git push, etc.) para criar um projeto no meu perfil no Git Hub com o uso do Git Bash.<br>
 Adicionados os seguintes Apps neste projeto:
 ## AppAulaEstoque:
 Este App serve para mostrar nome, quantidade e preço de produto em estoque, fazendo também a soma do valor total em Reais (R$) das quantidades deste produto.
