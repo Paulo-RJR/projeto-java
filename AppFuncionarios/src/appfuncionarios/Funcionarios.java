@@ -36,8 +36,7 @@ public class Funcionarios {
         }else if(this.idade < 55 && this.falta > 0){            
             this.salario = (this.salario - (this.salario * 0.11)) - 
             (((this.salario / 240) * 9) * this.falta);
-            System.out.println("\nImposto de 11%.");
-			
+            System.out.println("\nImposto de 11%.");			
         }else if (this.idade < 55 && this.falta == 0){            
             this.salario = (this.salario - (this.salario * 0.11));
             System.out.println("\nImposto de 11%.");
