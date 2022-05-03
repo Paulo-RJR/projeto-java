@@ -16,7 +16,7 @@ Se caso o funcionário tiver falta(s), esta deve ser informada o número, para c
 E com base neste conceito este App possui a estrutura a seguir:<br>
 Classe para cadastro simples contendo: nome, ra, curso e matéria do aluno;<br>
 Classe para o cálculo das notas em provas e/ou atividades, deste aluno podendo este curso ser do tipo: Presencial e Semipresencial;<br>
-Classe com menu no qual o aluno escolhe a tipo do curso, para que assim possa adicionar suas notas e o App faz o cálculo apresentando a média final destas notas e o seu Status (Aprovado, Reprovado ou DP).
+Classe com menu no qual o aluno escolhe a tipo do curso, para que assim possa adicionar suas notas e o App faz o cálculo apresentando a média final destas notas e o seu Status (Aprovado ou Reprovado).
 
 <strong>Obs.:</strong> Os Apps acima foram escolhidos para este respositório pois mostram na prática como codifico  utilizando a Linguagem de Programação Java, aplicando o conceito de Programação Orientada à Objetos através da IDE Netbeans.
 
