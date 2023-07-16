@@ -1,5 +1,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Paulo-RJR/projeto-java)
 ![GitHub](https://img.shields.io/github/license/Paulo-RJR/projeto-java)
+![GitHub language count](https://img.shields.io/github/languages/count/Paulo-RJR/projeto-java)
+![GitHub top language](https://img.shields.io/github/languages/top/Paulo-RJR/projeto-java)
+
+
 
 
 # Primeiro Repositório no GitHub:
