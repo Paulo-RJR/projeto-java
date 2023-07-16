@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Paulo-RJR/projeto-java)
+![GitHub](https://img.shields.io/github/license/Paulo-RJR/projeto-java)
+
+
 # Primeiro Repositório no GitHub:
 💻  Este primeiro repositório consiste em demonstrar na prática conceitos e comandos básicos (git clone, git add ., git status, git commit -m “Descrição da atualização.”, git push, etc.) e também o nível de conhecimento na Linguagem de Programação Java, desta forma criar um perfil no Git Hub com o uso do Git Bash.<br>
 Sendo assim para este repositório foram escolhos os seguintes Apps:
